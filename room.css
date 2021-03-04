@@ -1,0 +1,133 @@
+#thanhnav{
+	
+}
+.container-fluid{
+	color : #c6cbd3;
+}
+#logo
+{
+	width:100px;
+	height:70px
+}
+ul{
+	padding-left: 30px;
+}
+
+
+img
+{
+	width: 100%;
+	height: 600px;
+}
+
+#accomodation
+{
+	/* background-color: #363636; */
+	margin-top: 20px;
+	margin-bottom:20px;
+	padding-top:10px;
+	padding-bottom:30px;
+}
+
+.card
+{
+	width:350px;
+	height:480px;
+}
+
+#hinhaccom
+{
+	height:250px;
+}
+
+#chitietphong
+{
+	text-align:center;
+	margin-left:70px;
+	margin-top:50px;	
+}
+#LH{
+	color:white;
+}
+
+
+
+
+footer
+{
+	background-color: #363636;
+}
+		
+h4{
+	color:white;
+}
+		
+p
+{
+	line-height:1.5;
+	color: #000011;
+	font-size:17px;
+}
+
+#ft
+{
+	color: #000011;
+}
+
+.fa {
+  padding: 5px;
+  width: 25px;
+  text-align: center;
+  text-decoration: none;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.room-details-title {
+    line-height: 18px;
+    margin-bottom: 34px;
+    position: relative;
+    text-transform: uppercase;
+}
+.room-details-title::after {
+    background: #b5876d none repeat scroll 0 0;
+    bottom: -10px;
+    content: "";
+    height: 1px;
+    left: 0;
+    position: absolute;
+    width: 120px;
+}
+#tiennghi{
+	font-size: 130%;
+	color: blue;
+}
+#contact{
+	align: center;
+	margin-bottom: 100px;
+	margin-top: 50px;
+}
+
+#gallery{
+	font-family: Bodoni MT;
+	font-size: 50px;
+	margin-bottom: 10px;
+	margin-top: 30px;
+	margin-left: 600px;
+}
+#gallerypic{
+	margin-bottom: 30px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
